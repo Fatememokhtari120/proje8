@@ -1,0 +1,1 @@
+restore database student from disk ='d:\myproject backups\student.back';
